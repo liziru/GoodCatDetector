@@ -22,7 +22,7 @@
   
 5. Reference
 > 目标检测: https://github.com/dog-qiuqiu/Yolo-Fastest  
-            https://github.com/geekzhu001/Yolo-Fastest-MNN  
+> 推理: https://github.com/geekzhu001/Yolo-Fastest-MNN  
 > MNN: https://github.com/alibaba/MNN
     
 
