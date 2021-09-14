@@ -1,11 +1,11 @@
-############## Good Cat Dector ##############
+# Good Cat Dector
 
 1，项目目的：检测猫咪是否上桌，防止猫咪上桌乱翻；
 
 
 2，项目介绍：
-    2.0 硬件： 树莓派3B+(建议4B), CSI camera, 双自由度舵机
-    2.1 关键算法：
+    2.1 硬件： 树莓派3B+(建议4B), CSI camera, 双自由度舵机
+    2.2 关键算法：
         2.1.1 opecv2录像
         2.1.2 目标检测
             检测算法：yolo
@@ -23,7 +23,7 @@
     "Cow","Diningtable","Dog","Horse","Motorbike","Person","Pottedplant","Sheep","Sofa","Train","Tvmonitor"]
 
 
-5，Reference
+5, Reference
     5.1 目标检测: https://github.com/dog-qiuqiu/Yolo-Fastest 
         https://github.com/geekzhu001/Yolo-Fastest-MNN
     5.2 舵机
