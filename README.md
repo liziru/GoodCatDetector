@@ -1,6 +1,6 @@
 # Good Cat Dector
 
-1. 项目目的:
+1. 项目目的:  
     检测猫咪是否上桌，防止猫咪上桌乱翻
   
 2. 项目介绍:
@@ -12,7 +12,7 @@
             2. 推理引擎：MNN
   
 3. How to run?
-    1. burn a raspberry image, prepare ssh, network connnection and camera
+    1. Burn a raspberry image, prepare ssh, network connnection and camera
     2. Enter the os via ssh, 'cd GoodCat/Yolo-Fastest-MNN/build && cmake .. && make && sudo ./yolo'
   
 4. 拓展:  
